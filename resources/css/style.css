@@ -1,0 +1,21 @@
+
+.card-img-top{
+    height:214px ;
+}
+.height-cbody{
+    height: 214px;
+}
+.button{
+    position: absolute;
+    bottom: 15px;
+}
+.btn-outline-secondary{
+    margin-right: 7px;
+}
+.link{
+    text-decoration: none;
+    color:#6c757d ;
+}
+.cards{
+    position: relative;
+}
