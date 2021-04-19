@@ -19,3 +19,6 @@
 .cards{
     position: relative;
 }
+.about-btn{
+    border-radius: 50%;
+}
