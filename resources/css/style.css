@@ -1,24 +1,41 @@
-
-.card-img-top{
-    height:214px ;
-}
-.height-cbody{
+.card-img-top {
     height: 214px;
 }
-.button{
+
+.height-cbody {
+    height: 214px;
+}
+
+.button {
     position: absolute;
     bottom: 15px;
 }
-.btn-outline-secondary{
+
+.btn-outline-secondary {
     margin-right: 7px;
 }
-.link{
+
+.link {
     text-decoration: none;
-    color:#6c757d ;
+    color: #6c757d;
 }
-.cards{
+
+.cards {
     position: relative;
 }
-.about-btn{
+
+.about-btn {
     border-radius: 50%;
+}
+
+.card2 {
+    margin-top: 20px;
+}
+
+.card3 {
+    margin-top: 20px;
+}
+
+.cardEducation {
+    margin-bottom: 40px;
 }
